@@ -1,1 +1,1 @@
-/home/robit_git_desktop/./robit_git
+/home/$USER/robit_git_desktop/./robit_git
