@@ -1,7 +1,0 @@
-[Desktop Entry]
-Type=Application
-Terminal=false
-Name=[RO:BIT] GITHUB
-Exec=bash -c '/home/$USER/robit_git_desktop/launch.sh'
-
-
