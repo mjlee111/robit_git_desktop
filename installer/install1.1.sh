@@ -22,7 +22,6 @@ alias git-ssh='ssh robit_git@121.160.113.219'
 alias rogit='cd ~/ && ./robit_git1.1'" >> ~/.bashrc
 
 cd
-rm robit_git1.0
 git clone https://github.com/mjlee111/robit_git_desktop.git
 cd 
 cd robit_git_desktop
@@ -31,3 +30,4 @@ cd
 rm -rf robit_git_desktop
 sudo chmod 777 robit_git1.1
 source ~/.bashrc
+rm robit_git1.0
